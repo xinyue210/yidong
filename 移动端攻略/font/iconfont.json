@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "400303",
+      "name": "菜单",
+      "font_class": "htmal5icon35",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "1391245",
+      "name": "上升",
+      "font_class": "1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "6077738",
+      "name": "人像",
+      "font_class": "renxiang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6364167",
+      "name": "二维码",
+      "font_class": "ico",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "9402935",
+      "name": "箭头-右",
+      "font_class": "changyongicon-",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "9512630",
+      "name": "客服",
+      "font_class": "service-fill",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "9626885",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "10905625",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "15816499",
+      "name": "010箭头右",
+      "font_class": "010jiantouyou",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "15816500",
+      "name": "010箭头左",
+      "font_class": "010jiantouzuo",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "18368451",
+      "name": "电 话01",
+      "font_class": "dianhua01",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    }
+  ]
+}

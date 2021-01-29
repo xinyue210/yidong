@@ -1,0 +1,133 @@
+.top{
+	height: 57px;
+	position:relative;
+}
+.top img{
+	margin:0.384615rem 0 0 4.615384rem;
+}
+.top span{
+	font-size: 32px;
+	color:#0760E5;
+	position: absolute;
+	top:0.384615rem;right:0.384615rem;
+}
+.top1{
+	position:relative;
+}
+.top1 img{
+	height:7.307692rem;
+	margin-top:0.192307rem;
+}
+.top1 p{
+	width:3.461538rem;
+	height:1.923076rem;
+	background-color:#1259E6;
+	font-size:18px;
+	color:#fff;
+	padding-top:1.538461rem;
+	display:inline-block;
+	text-align:center;
+	text-align: center;
+	position:absolute;
+	bottom:-0.692307rem; left:0.461538rem;
+}
+.top1 p span{
+	position:absolute;
+	top:0.384615rem;left:0.384615rem;
+}
+.top1 a{
+	display:inline-block;
+	font-size:0.615384rem;
+	color:#333333;
+	margin:1.038461rem 0 0  5.384615rem;
+}
+ul{
+	margin:0.576923rem 0 0 0.461538rem;
+	border-bottom:2px solid #EAEAEA;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	font-size:0.615384rem;
+	font-family:'黑体';
+	color:#333333;
+	padding: 0 0.846153rem 0.423076rem 0;
+}
+ul .active a{
+	color: #1259E6;
+}
+.box{
+	margin:0.76923rem 0 0 0.461538rem;
+}
+.box h6{
+	font-size:0.76923rem;
+	color:#333333;
+	font-family:'黑体';
+	margin-left:1.538461rem;
+}
+.box .p1{
+	font-size:0.538461rem;
+	font-family:'黑体';
+	color:#CAC8C8;
+	margin-top:0.192307rem;
+}
+.box span{
+	display: inline-block;
+	width:2.192307rem;
+	height:0.115384rem;
+	background-color: #0760E5;
+	margin-left:6.153846rem;
+}
+.box .p2{
+	font-size:0.615384rem;
+	color:#333333;
+	text-indent:2em;
+	font-family:'黑体';
+	margin-top:0.576923rem;
+	line-height:1rem;
+}
+.u1{
+	margin:0.76923rem 0 0 0.461538rem;
+	border-bottom:0px;
+}
+.u1 li{
+	width:3.76923rem;
+	height:4.807692rem;
+	margin:0 0 0.76923rem 1.153846rem;
+}
+.u1 .l1{
+	margin-left:3.076923rem;
+}
+.u1 .l2{
+	margin-left:0.192307rem;
+}
+.u1 li a{
+	font-size:0.615384rem;
+	color:#333333;
+	text-align: center;
+	padding-left:0.461538rem;
+}
+.box1{
+	margin:1.153846rem 0 0 0.461538rem;
+}
+.box1 p{
+	font-size:0.615384rem;
+	color:#333333;
+	font-family:'黑体';
+	margin-top:0.961538rem;
+	text-indent:0.846153rem;
+}
+.box1 .p3{
+	margin-top:0.192307rem;
+}
+.box8{
+	height:4.230769rem;
+	background-color:#313131;
+	margin-top:1.153846rem;
+}
+.box8 p{
+	font-size:0.538461rem;
+	color:#BFBEBE;
+	padding:0.576923rem 0 0 0.576923rem;
+}

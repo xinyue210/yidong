@@ -1,0 +1,125 @@
+.top{
+	height: 57px;
+	position:relative;
+}
+.top img{
+	margin:0.384615rem 0 0 4.615384rem;
+}
+.top span{
+	font-size: 32px;
+	color:#0760E5;
+	position: absolute;
+	top:0.384615rem;right:0.384615rem;
+}
+.top1{
+	position:relative;
+}
+.top1 img{
+	height:7.307692rem;
+	margin-top:0.192307rem;
+}
+.top1 p{
+	width:3.461538rem;
+	height:1.923076rem;
+	background-color:#1259E6;
+	font-size:18px;
+	color:#fff;
+	padding-top:1.538461rem;
+	display:inline-block;
+	text-align:center;
+	text-align: center;
+	position:absolute;
+	bottom:-0.692307rem; left:0.461538rem;
+}
+.top1 p span{
+	position:absolute;
+	top:0.384615rem;left:0.384615rem;
+}
+.top1 a{
+	display:inline-block;
+	font-size:0.615384rem;
+	color:#333333;
+	margin:1.038461rem 0 0  5.384615rem;
+}
+ul{
+	margin:0.576923rem 0 0 0.461538rem;
+	border-bottom:2px solid #EAEAEA;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	font-size:0.615384rem;
+	font-family:'黑体';
+	color:#333333;
+	padding: 0 0.5rem 0.423076rem 0;
+}
+ul .active a{
+	color: #1259E6;
+}
+.u1{
+	margin:0.76923rem 0 0 0.461538rem;
+	border-bottom:0px;
+}
+.u1 li{
+	width: 4.615384rem;
+	height: 1.538461rem;
+	text-align:center;
+	background-color:#F3F3F3;
+	margin:0 0.192307rem 0.384615rem 0;
+}
+.u1 li a{
+	font-size:0.615384rem;
+	color: #333333;
+	font-family:'黑体';
+}
+.u1 .active{
+	background-color: #0760E5;
+}
+.u1 .active a{
+	color:#fff;
+}
+.box{
+	margin:0.576923rem 0 0 0.461538rem;
+}
+.t2{
+	width: 14.5rem;
+	height:4.307692rem;
+	background-color:#F3F3F7;
+}
+.t2 p{
+	font-size:0.615384rem;
+	color:#AFAFB0;
+	padding:0.576923rem 0 0.192307rem 0.461538rem;
+}
+.t2 a{
+	font-size:0.615384rem;
+	color:#333333;
+}
+.box1{
+	margin-top:1.153846rem;
+}
+.box1 p{
+	width:3.461538rem;
+	height:1.346153rem;
+	text-align: center;
+	background-color: #0760E5;
+	margin:0 0.384615rem 0 4.230769rem;
+}
+.box1 .p2{
+	margin:-1.346153rem 0 0 8.461538rem;
+}
+.box1 p a{
+	font-size:0.538461rem;
+	color:#fff;
+}
+.box8{
+	height:4.230769rem;
+	background-color:#313131;
+	margin-top:1.153846rem;
+}
+.box8 p{
+	font-size:0.538461rem;
+	color:#BFBEBE;
+	padding:0.576923rem 0 0 0.576923rem;
+}

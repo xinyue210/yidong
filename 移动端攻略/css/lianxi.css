@@ -1,0 +1,146 @@
+.top{
+	height: 57px;
+	position:relative;
+}
+.top img{
+	margin:0.384615rem 0 0 4.615384rem;
+}
+.top span{
+	font-size: 32px;
+	color:#0760E5;
+	position: absolute;
+	top:0.384615rem;right:0.384615rem;
+}
+.top1{
+	position:relative;
+}
+.top1 img{
+	height:7.307692rem;
+	margin-top:0.192307rem;
+}
+.top1 p{
+	width:3.461538rem;
+	height:1.923076rem;
+	background-color:#1259E6;
+	font-size:18px;
+	color:#fff;
+	padding-top:1.538461rem;
+	display:inline-block;
+	text-align:center;
+	text-align: center;
+	position:absolute;
+	bottom:-0.692307rem; left:0.461538rem;
+}
+.top1 p span{
+	position:absolute;
+	top:0.384615rem;left:0.384615rem;
+}
+.top1 a{
+	display:inline-block;
+	font-size:0.615384rem;
+	color:#333333;
+	margin:1.038461rem 0 0  5.384615rem;
+}
+.top2{
+	margin:1.538461rem 0 0 0.461538rem;
+}
+.top2 h6{
+	font-size:0.692307rem;
+	color:#333333;
+	color:#333333;
+	font-family:'黑体';
+}
+.top2 p{
+	font-size:0.615384rem;
+	color:#918F8F;
+	font-family:'黑体';
+	margin-top:0.384615rem;
+}
+.top3{
+	margin:0.923076rem 0 0 0.461538rem;
+}
+.top3 h5{
+	font-size:0.692307rem;
+	font-family:'黑体';
+	color:#333333;
+}
+.top3 p{
+	font-size:0.615384rem;
+	font-family:'黑体';
+	color:#918F8F;
+	margin:0.384615rem 0 0.384615rem 0;
+}
+.top4{
+	width: 15rem;
+	height:4.153846rem;
+	background-color:#1259E6;
+	border-radius:4px;
+	margin:0.961538rem 0 0 0.461538rem;
+}
+.top4 h6{
+	font-size:0.76923rem;
+	font-family:'黑体';
+	color:#fff;
+	padding:0.576923rem 0 0 0.576923rem;
+}
+.top4 p{
+	font-size:0.615384rem;
+	font-family:'黑体';
+	color:#A4C0F5;
+	margin:0.384615rem 0 0 0.576923rem;
+}
+.top5{
+	height:9.115384rem;
+	position:relative;
+	margin:0.576923rem 0 0 0.461538rem;
+}
+.top6{
+	float:left;
+}
+.top6 img{
+	margin-right:2.115384rem;
+}
+.top6 p{
+	font-size:0.615384rem;
+	color:#333333;
+	margin:0.384615rem 0 0 1.538461rem;
+}
+.top7{
+	float:left;
+}
+.top7 img{
+	margin-top:0.192307rem;
+}
+.top7 p{
+	font-size:0.615384rem;
+	color:#333333;
+	margin:0.384615rem 0 0 1.538461rem;
+}
+/*.top5 ul{
+	position:absolute;
+	top:0.76923rem;right:0.384615rem;
+}
+ul li{
+	width:2.307692rem;
+	height:2.307692rem;
+	margin-bottom:0.192307rem;
+	background-color:#1159E5;
+}
+ul li span{
+	color:#fff;
+	padding:0.192307rem 0 0 0.576923rem;
+}
+ul li a{
+	font-size:0.461538rem;
+	color:#fff;
+}*/
+.box8{
+	height:4.230769rem;
+	background-color:#313131;
+}
+.box8 p{
+	font-size:0.538461rem;
+	color:#BFBEBE;
+	padding:0.576923rem 0 0 0.576923rem;
+}
+
